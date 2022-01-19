@@ -1,0 +1,942 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\Final\simulation\modelsim
+vadder_1_bit
+InWW?@]2ke;NIA@3=2H6I;0
+V0i`gPVZ5f6:j<QM05;<OZ2
+Z1 dC:\altera\13.1\Final\simulation\modelsim
+w1639767287
+8C:/altera/13.1/adder_1_bit.v
+FC:/altera/13.1/adder_1_bit.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-work work -O0
+!i10b 1
+!s100 iVCB=ZzDiN2L<2XTV9_gA2
+!s85 0
+!s108 1641557614.400000
+!s107 C:/altera/13.1/adder_1_bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/adder_1_bit.v|
+!s101 -O0
+vadder_1_bit_testbench
+I7<k`Q828CdkB`2gLozF?C2
+VFDRkaUc^fB0g0E7lef0LK2
+R1
+w1639847954
+8C:/altera/13.1/adder_1_bit_testbench.v
+FC:/altera/13.1/adder_1_bit_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 l^OBA<DQ[NkRISFRlHe>90
+!s85 0
+!s108 1641557614.494000
+!s107 C:/altera/13.1/adder_1_bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/adder_1_bit_testbench.v|
+!s101 -O0
+vadder_32_bit
+Ij5a_HH9I[nbN6We^UTa5j1
+VX0KFHie0I1_F?21aoVH8e1
+R1
+w1639840398
+8C:/altera/13.1/adder_32_bit.v
+FC:/altera/13.1/adder_32_bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 M]iGUClgF>PA>?k@jEib?2
+!s85 0
+!s108 1641557614.573000
+!s107 C:/altera/13.1/adder_32_bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/adder_32_bit.v|
+!s101 -O0
+vadder_32_bit_testbench
+IE1a5njJ2;MKi`4Q7;I8WM2
+V?M]jQm@lj1?>?ZhHdnU@S2
+R1
+w1639840357
+8C:/altera/13.1/adder_32_bit_testbench.v
+FC:/altera/13.1/adder_32_bit_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 g0<C<4kBIIaZS4CVJfBlh1
+!s85 0
+!s108 1641557614.667000
+!s107 C:/altera/13.1/adder_32_bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/adder_32_bit_testbench.v|
+!s101 -O0
+valu32
+I95dKLPR1hR8>RVV_5;WD02
+VlhMino[SZW4@aM2jGeGSN3
+R1
+w1641510820
+8C:/altera/13.1/alu32.v
+FC:/altera/13.1/alu32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 B^c5UMfO?6RWQMfHMie_D2
+!s85 0
+!s108 1641557614.746000
+!s107 C:/altera/13.1/alu32.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/alu32.v|
+!s101 -O0
+valu32_testbench
+IiH0d=UIhT2^L]Z^aR=WhC1
+VVo^^Jdm7f`YKSY]QjWai:2
+R1
+w1639848838
+8C:/altera/13.1/alu32_testbench.v
+FC:/altera/13.1/alu32_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 2mk70>W4=<<WkK5JAIL`l2
+!s85 0
+!s108 1641557614.840000
+!s107 C:/altera/13.1/alu32_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/alu32_testbench.v|
+!s101 -O0
+vAluControl
+I[UjT69VzHY3JlF3VH@G[;1
+VhL9i=5O3U1HFK5z42dVW92
+R1
+w1641557463
+8C:/altera/13.1/Final/AluControl.v
+FC:/altera/13.1/Final/AluControl.v
+L0 1
+R2
+r1
+31
+R3
+n@alu@control
+!i10b 1
+!s100 gLZejZG<59I=W2`QKK?bE1
+!s85 0
+!s108 1641557608.005000
+!s107 C:/altera/13.1/Final/AluControl.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/AluControl.v|
+!s101 -O0
+vAluControlTestBench
+IUXM<:^jkO<^ZbTAR;SZX`0
+V;e=JS6kFC]bS^Z6FLF9VD3
+R1
+w1641495031
+8C:/altera/13.1/Final/AluContrlTestBench.v
+FC:/altera/13.1/Final/AluContrlTestBench.v
+L0 1
+R2
+r1
+31
+R3
+n@alu@control@test@bench
+!i10b 1
+!s100 6KQNEL1jE;Q8ZelL;53BV0
+!s85 0
+!s108 1641557607.879000
+!s107 C:/altera/13.1/Final/AluContrlTestBench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/AluContrlTestBench.v|
+!s101 -O0
+vand_32_bit
+IYCFZdEe>Hm09OHAMD_YLk0
+V7Gl>S^nWIcg=aHNC@nh3f1
+R1
+w1639761258
+8C:/altera/13.1/and_32_bit.v
+FC:/altera/13.1/and_32_bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 C^YkOi>jeGSonEIW7g5>O3
+!s85 0
+!s108 1641557614.951000
+!s107 C:/altera/13.1/and_32_bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/and_32_bit.v|
+!s101 -O0
+vand_32_bit_testbench
+Izz?>ndo0=PUlG^E0ebTBa0
+V^zE`^f>4hOakjjFCa@PcG1
+R1
+w1639845659
+8C:/altera/13.1/and_32_bit_testbench.v
+FC:/altera/13.1/and_32_bit_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 CMDWIbTg>10MD>l=f3D<E2
+!s85 0
+!s108 1641557615.045000
+!s107 C:/altera/13.1/and_32_bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/and_32_bit_testbench.v|
+!s101 -O0
+vand_3bit
+IlMPOS>chG3BkYdaIeFf]62
+V4NOSF@:UPN=3:oaZE<KkJ2
+R1
+w1641389952
+8C:/altera/13.1/Final/and_3bit.v
+FC:/altera/13.1/Final/and_3bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 f4e@0Zi_nVbe2lUcJgLGV0
+!s85 0
+!s108 1641557608.131000
+!s107 C:/altera/13.1/Final/and_3bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/and_3bit.v|
+!s101 -O0
+vand_4bit
+I8ojP?Hej12]6IZM_T[enM0
+VETmh6G;83HR>Ag^OQd_L13
+R1
+w1641387949
+8C:/altera/13.1/Final/and_4bit.v
+FC:/altera/13.1/Final/and_4bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ;6?bc3?@Mz>V875i@oE^h3
+!s85 0
+!s108 1641557608.257000
+!s107 C:/altera/13.1/Final/and_4bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/and_4bit.v|
+!s101 -O0
+vand_5bit
+I1IX=z?]Z=BZ8Y1@J=OJ^d2
+V2T_1ahiR?^UYogcJz7z7i3
+R1
+w1641476532
+8C:/altera/13.1/Final/and_5bit.v
+FC:/altera/13.1/Final/and_5bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 593[^b9^VQDdFP01n4mOL0
+!s85 0
+!s108 1641557608.398000
+!s107 C:/altera/13.1/Final/and_5bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/and_5bit.v|
+!s101 -O0
+vand_6bit
+IG]YBFYfRjIala>j6^U1R01
+VmYgGHg3Fk?jVdU7hk_;Gc0
+R1
+w1641476521
+8C:/altera/13.1/Final/and_6bit.v
+FC:/altera/13.1/Final/and_6bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 :?mA;8G4URZRiVL<`Hi0e2
+!s85 0
+!s108 1641557608.524000
+!s107 C:/altera/13.1/Final/and_6bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/and_6bit.v|
+!s101 -O0
+vcontrol
+I;EJGQ_fMlhJj=^mK;;2@H3
+V2QRIG@UezJJV:O2IT6eL73
+R1
+w1641389853
+8C:/altera/13.1/Final/control.v
+FC:/altera/13.1/Final/control.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 >beWBJF]1Xb6oDWOa[kmN1
+!s85 0
+!s108 1641557608.621000
+!s107 C:/altera/13.1/Final/control.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/control.v|
+!s101 -O0
+vcontrol_testbench
+II_]kMldk8QNFZcMzL7VC@2
+VBQ8YZngkZ[bAAg6jES4o92
+R1
+w1641493935
+8C:/altera/13.1/Final/control_testbench.v
+FC:/altera/13.1/Final/control_testbench.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 480FOK4BA:EnzgCzzzVbT3
+!s85 0
+!s108 1641557608.696000
+!s107 C:/altera/13.1/Final/control_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/control_testbench.v|
+!s101 -O0
+vDataMemory
+ImG1C7009lfIH8=2Hcl<Kj1
+VJALL12Vcb>zFdAD^R?`b[2
+R1
+w1641508470
+8C:/altera/13.1/Final/DataMemory.v
+FC:/altera/13.1/Final/DataMemory.v
+L0 1
+R2
+r1
+31
+R3
+n@data@memory
+!i10b 1
+!s100 ;n2@L??e6f179n8fcoQ4a2
+!s85 0
+!s108 1641557608.775000
+!s107 C:/altera/13.1/Final/DataMemory.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/DataMemory.v|
+!s101 -O0
+vDataMemoryTestBench
+I[_Q8^6lM1@@4BTLA55meE3
+VT9cTL@AoLOUdb:1KjH=4@2
+R1
+w1641480032
+8C:/altera/13.1/Final/DataMemoryTestBench.v
+FC:/altera/13.1/Final/DataMemoryTestBench.v
+L0 2
+R2
+r1
+31
+R3
+n@data@memory@test@bench
+!i10b 1
+!s100 9SJe6X;@O?dPicJ<PkKKb0
+!s85 0
+!s108 1641557608.869000
+!s107 C:/altera/13.1/Final/DataMemoryTestBench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/DataMemoryTestBench.v|
+!s101 -O0
+vinstruction_memory_testbench
+IEaSBHo1:U1>aRBW7<R?[11
+Vn<[TIliYTa6gWGFeB88;a3
+R1
+w1641495746
+8C:/altera/13.1/Final/instruction_memory_testbench.v
+FC:/altera/13.1/Final/instruction_memory_testbench.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 9HmR3CIWnRVk23=GR?c5V0
+!s85 0
+!s108 1641557608.979000
+!s107 C:/altera/13.1/Final/instruction_memory_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/instruction_memory_testbench.v|
+!s101 -O0
+vinstructions
+IE5oFg;2E83fR^f;cI6e<T1
+V>:BT:lJ@KZHo;N<L5X3eZ2
+R1
+w1641553094
+8C:/altera/13.1/Final/instructions.v
+FC:/altera/13.1/Final/instructions.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 <8K`A9V^fBlPF4P56U`I42
+!s85 0
+!s108 1641557609.089000
+!s107 C:/altera/13.1/Final/instructions.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/instructions.v|
+!s101 -O0
+vmips_16bit
+I?Ym`lad6VBj8TB=6]X`3A0
+VcHbFGSlRKD?GC:f70O6zM0
+R1
+w1641554024
+8C:/altera/13.1/Final/mips_16bit.v
+FC:/altera/13.1/Final/mips_16bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 8[kRW<K1P863W1lRTL4Am1
+!s85 0
+!s108 1641557609.183000
+!s107 C:/altera/13.1/Final/mips_16bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/mips_16bit.v|
+!s101 -O0
+vmips_16bit_testbench
+IXI1M=6LTfHo0Q57cSXCPA0
+V1z:zYV7daji[1i<G@]H;h3
+R1
+w1641556373
+8C:/altera/13.1/Final/mips_16bit_testbench.v
+FC:/altera/13.1/Final/mips_16bit_testbench.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 Xo=7z@TN@e0P<BV:M0KYB2
+!s85 0
+!s108 1641557609.262000
+!s107 C:/altera/13.1/Final/mips_16bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/mips_16bit_testbench.v|
+!s101 -O0
+vmips_registers
+IAlOh9YheJ7GV3gC]QZ84?1
+VXzI^[EGWZ5?2>7>^EHM3k1
+R1
+w1641508387
+8C:/altera/13.1/Final/mips_registers.v
+FC:/altera/13.1/Final/mips_registers.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 B4CoVi3XdolJAL`SiN8SH0
+!s85 0
+!s108 1641557609.356000
+!s107 C:/altera/13.1/Final/mips_registers.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/mips_registers.v|
+!s101 -O0
+vmips_registers_testbench
+IAF^;Ha;Z037kHh[Wgn3Pl1
+VD8:<JgVJ=eb2knE0cV7zI0
+R1
+w1641480398
+8C:/altera/13.1/Final/mips_registers_testbench.v
+FC:/altera/13.1/Final/mips_registers_testbench.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 =D<0V>JHab;T]U`7CWEmV3
+!s85 0
+!s108 1641557609.435000
+!s107 C:/altera/13.1/Final/mips_registers_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/mips_registers_testbench.v|
+!s101 -O0
+vmux_2x1
+IdR89mIC:5kz]2SR78cAJn0
+VNnEBHE3^Cd^1@6BAn>Wz<3
+R1
+w1639834617
+8C:/altera/13.1/mux_2x1.v
+FC:/altera/13.1/mux_2x1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 `Ck4QmlNJN>7aZ4>hZ_1E0
+!s85 0
+!s108 1641557615.123000
+!s107 C:/altera/13.1/mux_2x1.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/mux_2x1.v|
+!s101 -O0
+vmux_2x1_32bit
+I?IG>Fk7@Di9]HI]cEbhd=3
+V[nB5USk:UK1]2S4L>z`W]2
+R1
+w1641476505
+8C:/altera/13.1/Final/mux_2x1_32bit.v
+FC:/altera/13.1/Final/mux_2x1_32bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 F2G4E<bdkazhB52VL]6_R3
+!s85 0
+!s108 1641557609.607000
+!s107 C:/altera/13.1/Final/mux_2x1_32bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/mux_2x1_32bit.v|
+!s101 -O0
+vmux_2x1_3bit
+IX9@eYeh@9R_^>>2_9d<CX2
+V3gPZ2h^gC7=:O@_=fCc2g3
+R1
+w1641482060
+8C:/altera/13.1/Final/mux_2x1_3bit.v
+FC:/altera/13.1/Final/mux_2x1_3bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 B]e_0>Z^KIkba8>;TR1F;1
+!s85 0
+!s108 1641557609.529000
+!s107 C:/altera/13.1/Final/mux_2x1_3bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/mux_2x1_3bit.v|
+!s101 -O0
+vmux_2x1_testbench
+IFA7N:YYi1AfM::9:m^FhO0
+V6QBaL6CDVB3B^1ad9@cS62
+R1
+w1639845855
+8C:/altera/13.1/mux_2x1_testbench.v
+FC:/altera/13.1/mux_2x1_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 VeX?jHfeGih:F0Kbf1hOY0
+!s85 0
+!s108 1641557615.201000
+!s107 C:/altera/13.1/mux_2x1_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/mux_2x1_testbench.v|
+!s101 -O0
+vmux_4x1
+IB7f^DEbk0_@7PG^zjiVEB2
+V5]`gWSMzb1F9:Cd0M=h9n0
+R1
+w1639835045
+8C:/altera/13.1/mux_4x1.v
+FC:/altera/13.1/mux_4x1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 `U>1;dU<6jjP0GmNnWD=O3
+!s85 0
+!s108 1641557615.296000
+!s107 C:/altera/13.1/mux_4x1.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/mux_4x1.v|
+!s101 -O0
+vmux_4x1_testbench
+IQmla6ZlP]@bfJal2Zz;I]3
+V[VJbaIm:chmLK=Jj4?Ef<1
+R1
+w1639846136
+8C:/altera/13.1/mux_4x1_testbench.v
+FC:/altera/13.1/mux_4x1_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 dB1f;1d<2hkYdAdNJcIBR1
+!s85 0
+!s108 1641557615.374000
+!s107 C:/altera/13.1/mux_4x1_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/mux_4x1_testbench.v|
+!s101 -O0
+vmux_8x1
+Ielk[ASaeS2_]<32OPnn>H2
+VYCJXD=gW01>=55WS??P;k2
+R1
+w1639836569
+8C:/altera/13.1/mux_8x1.v
+FC:/altera/13.1/mux_8x1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 MO?g58UbN=G14_Yf_4EPO1
+!s85 0
+!s108 1641557615.468000
+!s107 C:/altera/13.1/mux_8x1.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/mux_8x1.v|
+!s101 -O0
+vmux_8x1_32bit
+IbQ1jD>Q9AmhR6jL9XjUBc1
+V7hHQ5OVc5I0kP@eDCaXTK3
+R1
+w1639836208
+8C:/altera/13.1/mux_8x1_32bit.v
+FC:/altera/13.1/mux_8x1_32bit.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 j<@@VgLI51Z;2:c7JED<a1
+!s85 0
+!s108 1641557615.547000
+!s107 C:/altera/13.1/mux_8x1_32bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/mux_8x1_32bit.v|
+!s101 -O0
+vmux_8x1_32bit_testbench
+IRInNgRTb<Xe@S>H0@Ol[Y0
+VIVV2L8[YB[a;7Goeac8[m0
+R1
+w1639848365
+8C:/altera/13.1/mux_8x1_32bit_testbench.v
+FC:/altera/13.1/mux_8x1_32bit_testbench.v
+L0 4
+R2
+r1
+31
+R3
+!i10b 1
+!s100 04nQ_=KN7DzichJ0O?:L91
+!s85 0
+!s108 1641557615.651000
+!s107 C:/altera/13.1/mux_8x1_32bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/mux_8x1_32bit_testbench.v|
+!s101 -O0
+vmux_8x1_testbench
+IPJPQUfgOPVOIhM@U51jB>3
+VT4R]0@nfnbbO?3=@Z[<MF2
+R1
+w1639846168
+8C:/altera/13.1/mux_8x1_testbench.v
+FC:/altera/13.1/mux_8x1_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 1H;j`cY@[DfNP9>ShWKWN0
+!s85 0
+!s108 1641557615.741000
+!s107 C:/altera/13.1/mux_8x1_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/mux_8x1_testbench.v|
+!s101 -O0
+vnor_32_bit
+IS;h=<3YW;7ooHGmcaK73D2
+V76`YQ8m127aKdf=h^<]RE3
+R1
+w1639838309
+8C:/altera/13.1/nor_32_bit.v
+FC:/altera/13.1/nor_32_bit.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 M`4^ldWhBQl7O_b8ciTVn2
+!s85 0
+!s108 1641557615.813000
+!s107 C:/altera/13.1/nor_32_bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/nor_32_bit.v|
+!s101 -O0
+vnor_32_bit_testbench
+IWLOAH^=hzlZb<>b]l`4;I2
+VCN8Z2BlDnZ^ZdS<2;:2lI3
+R1
+w1639847853
+8C:/altera/13.1/nor_32_bit_testbench.v
+FC:/altera/13.1/nor_32_bit_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 `K9VZTR=?a@iZ2;BWA@UN2
+!s85 0
+!s108 1641557615.907000
+!s107 C:/altera/13.1/nor_32_bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/nor_32_bit_testbench.v|
+!s101 -O0
+vnot_32_bit
+I6;7VoE[:@RTHmDS?c^nDL1
+VKYYPYPGVE5O3B?n?Igz2C0
+R1
+w1639837424
+8C:/altera/13.1/not_32_bit.v
+FC:/altera/13.1/not_32_bit.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ]0^EX1QF]MW<RAhDZFBIL1
+!s85 0
+!s108 1641557615.986000
+!s107 C:/altera/13.1/not_32_bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/not_32_bit.v|
+!s101 -O0
+vnot_32_bit_testbench
+I7DQK2b61=z0MYjIZbH]fD3
+VBBmYaA;omMoaS2hm?ZGBY0
+R1
+w1639847851
+8C:/altera/13.1/not_32_bit_testbench.v
+FC:/altera/13.1/not_32_bit_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 oQW13`FNb166@Odn4gb431
+!s85 0
+!s108 1641557616.065000
+!s107 C:/altera/13.1/not_32_bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/not_32_bit_testbench.v|
+!s101 -O0
+vor_32_bit
+IEModF7QCD`iHCPSNc?S<a1
+V91[X<bJ@iAGS<2M:m@8E]2
+R1
+w1639761097
+8C:/altera/13.1/or_32_bit.v
+FC:/altera/13.1/or_32_bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 34>VYfzAADihbDJi1`Cb@0
+!s85 0
+!s108 1641557616.143000
+!s107 C:/altera/13.1/or_32_bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/or_32_bit.v|
+!s101 -O0
+vor_32_bit_testbench
+IPoM=9bg==P9g[Tno0_IH00
+VEFnC7PFkD[:NGSlaCUM=30
+R1
+w1639845584
+8C:/altera/13.1/or_32_bit_testbench.v
+FC:/altera/13.1/or_32_bit_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ?;9c;P8`Ql2hcaDab02`W1
+!s85 0
+!s108 1641557616.221000
+!s107 C:/altera/13.1/or_32_bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/or_32_bit_testbench.v|
+!s101 -O0
+vProgramCounter
+Im=le71fnEkWX4Q56TYk]U3
+VI1g`FGk>Kk4GPl[96O:SH3
+R1
+w1641497545
+8C:/altera/13.1/Final/ProgramCounter.v
+FC:/altera/13.1/Final/ProgramCounter.v
+L0 1
+R2
+r1
+31
+R3
+n@program@counter
+!i10b 1
+!s100 Om@GBmESm;JAkUN^TOgiH0
+!s85 0
+!s108 1641557609.685000
+!s107 C:/altera/13.1/Final/ProgramCounter.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/ProgramCounter.v|
+!s101 -O0
+vProgramCounterTestBench
+Il3dFVSVJlo`ne>c0kR>e@1
+V[jgV@fgCc4gM6iH6YZR8@1
+R1
+w1641496881
+8C:/altera/13.1/Final/ProgramCounterTestBench.v
+FC:/altera/13.1/Final/ProgramCounterTestBench.v
+L0 1
+R2
+r1
+31
+R3
+n@program@counter@test@bench
+!i10b 1
+!s100 BnK3Im=2bUcFN_m_F9K>Q2
+!s85 0
+!s108 1641557609.764000
+!s107 C:/altera/13.1/Final/ProgramCounterTestBench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/ProgramCounterTestBench.v|
+!s101 -O0
+vset_less_than_32
+I=]A0^WISfBaV[09174Rd31
+V>a5bNLJ@5<oQM08::R;_K3
+R1
+w1639840214
+8C:/altera/13.1/set_less_than_32.v
+FC:/altera/13.1/set_less_than_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ?:VY_gURJh`cO7Bl;n`=@0
+!s85 0
+!s108 1641557616.284000
+!s107 C:/altera/13.1/set_less_than_32.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/set_less_than_32.v|
+!s101 -O0
+vset_less_than_32_testbench
+IM2z[5C@QY7PZRXU_P_dF@3
+VT3MZl309T40dkWEC=98oP2
+R1
+w1639772866
+8C:/altera/13.1/set_less_than_32_testbench.v
+FC:/altera/13.1/set_less_than_32_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 l>^gJN`6bH85Smg`IS@1h2
+!s85 0
+!s108 1641557616.378000
+!s107 C:/altera/13.1/set_less_than_32_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/set_less_than_32_testbench.v|
+!s101 -O0
+vsign_extend
+I>TVI<ghfzl^JYBP=0]D]?2
+Va7IK7fGz]F86`eoZcdfIM1
+R1
+w1641402184
+8C:/altera/13.1/Final/sign_extend.v
+FC:/altera/13.1/Final/sign_extend.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 djcWk43L=:bnN`iNLm3nE3
+!s85 0
+!s108 1641557609.842000
+!s107 C:/altera/13.1/Final/sign_extend.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Final/sign_extend.v|
+!s101 -O0
+vxor_32_bit
+Igdi>DX@Im4h]`1PJCo>k[3
+VZ]h5J<Nel;?ZoC9=0IDUB3
+R1
+w1639751679
+8C:/altera/13.1/xor_32_bit.v
+FC:/altera/13.1/xor_32_bit.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 7H738P2@KECORl:PG^mEf1
+!s85 0
+!s108 1641557616.457000
+!s107 C:/altera/13.1/xor_32_bit.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/xor_32_bit.v|
+!s101 -O0
+vxor_32_bit_testbench
+IQ?cE@g2PYDWTT[DkAhkfN2
+VFR`hQdE40RoXkZZZ1_<@A2
+R1
+w1639845531
+8C:/altera/13.1/xor_32_bit_testbench.v
+FC:/altera/13.1/xor_32_bit_testbench.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 zfafkkER>X@khRL6aPXmL2
+!s85 0
+!s108 1641557616.551000
+!s107 C:/altera/13.1/xor_32_bit_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/xor_32_bit_testbench.v|
+!s101 -O0
+vxor_gate
+IV>9PI_@3=5IM7LF:59ZVo1
+VlOP2eUQkOJ;^Z=XNfKJ<k0
+R1
+w1639415154
+8C:/altera/13.1/xor_gate.v
+FC:/altera/13.1/xor_gate.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 TglkBoP3EF_5mFRnbNV6X2
+!s85 0
+!s108 1641557616.629000
+!s107 C:/altera/13.1/xor_gate.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/xor_gate.v|
+!s101 -O0
+vxorgate_testbench
+!i10b 1
+!s100 m0cFMdFo>1>V0EU23;SfB3
+I:mTT2egm3gP0J[QPDIlJi0
+VGG;ZbYHccTi7^Ad5HVzS=0
+R1
+w1639845405
+8C:/altera/13.1/xorgate_testbench.v
+FC:/altera/13.1/xorgate_testbench.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1641557616.708000
+!s107 C:/altera/13.1/xorgate_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/xorgate_testbench.v|
+!s101 -O0
+R3

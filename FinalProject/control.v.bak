@@ -1,0 +1,7 @@
+module control(input [3:0] OP, output RegDes, output AluSrc, output MemToReg, output RegWr, output MemRd, output MemWr, output Branch, output BNE, output [2:0] AluOp);
+
+
+
+
+
+endmodule

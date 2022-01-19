@@ -1,0 +1,39 @@
+
+`timescale 1 ps / 1 ps
+
+module mux_8x1_32bit_testbench();
+
+reg [31:0] D0;
+reg [31:0] D1;
+reg [31:0] D2;
+reg [31:0] D3;
+reg [31:0] D4;
+reg [31:0] D5;
+reg [31:0] D6;
+reg [31:0] D7;
+reg [2:0] S;
+wire [31:0] F;
+	
+	reg clk;
+	
+	adder_32_bit TB(.A(A) , .B(B) , .Cin(Cin) , .Sum(Sum) , .Cout(Cout));
+	
+	always 
+		begin 
+			#2 clk = ~clk;
+		end
+	
+	initial 
+		begin 
+			A = 32'd0;
+			B = 32'd0;
+			Cin = 1'b0;
+			
+			#5 A = 32'd20;
+				B = 32'd8;
+				Cin = 1'b1;
+		end
+
+
+endmodule
+		

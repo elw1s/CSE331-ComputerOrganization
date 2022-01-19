@@ -1,0 +1,44 @@
+`timescale 1 ps / 1 ps
+
+module not_32_bit_testbench();
+
+reg [31:0] A;
+wire [31:0] OUT;
+	
+	reg clk;
+	
+	not_32_bit TB(.A(A) , .OUT(OUT));
+	
+	always 
+		begin 
+			#2 clk = ~clk;
+		end
+	
+	initial 
+		begin 
+			D0 = 1'b0;
+			D1 = 1'b0;
+			D2 = 1'b0;
+			D3 = 1'b0;
+			D4 = 1'b0;
+			D5 = 1'b0;
+			D6 = 1'b0;
+			D7 = 1'b0;
+			S = 3'b000;
+			
+			#5 D0 = 1'b1;
+				D1 = 1'b0;
+				D2 = 1'b1;
+				D3 = 1'b0;
+				D4 = 1'b1;
+				D5 = 1'b1;
+				D6 = 1'b0;
+				D7 = 1'b0;
+				S = 3'b101;
+
+
+		end
+
+
+endmodule
+		

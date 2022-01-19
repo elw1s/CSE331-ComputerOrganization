@@ -1,0 +1,98 @@
+|control
+OP[0] => OP[0].IN5
+OP[1] => OP[1].IN4
+OP[2] => OP[2].IN4
+OP[3] => OP[3].IN2
+RegDes << and_4bit:AND_4_1.port4
+AluSrc << OR6.DB_MAX_OUTPUT_PORT_TYPE
+MemToReg << and_4bit:AND_4_2.port4
+RegWr << OR12.DB_MAX_OUTPUT_PORT_TYPE
+MemRd << and_4bit:AND_4_2.port4
+MemWr << and_4bit:AND_4_3.port4
+Branch << and_4bit:AND_4_8.port4
+BNE << and_4bit:AND_4_9.port4
+AluOp[0] << OR22.DB_MAX_OUTPUT_PORT_TYPE
+AluOp[1] << OR18.DB_MAX_OUTPUT_PORT_TYPE
+AluOp[2] << OR15.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_1
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_2
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_3
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_4
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_5
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_6
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_7
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_8
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_9
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control|and_4bit:AND_4_10
+A => AND1.IN0
+B => AND1.IN1
+C => AND2.IN1
+D => AND3.IN1
+OUT <= AND3.DB_MAX_OUTPUT_PORT_TYPE
+
+

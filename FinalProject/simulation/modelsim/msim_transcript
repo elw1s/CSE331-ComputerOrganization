@@ -1,0 +1,750 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do finalProject_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/and_4bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module and_4bit
+# 
+# Top level modules:
+# 	and_4bit
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/control.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module control
+# 
+# Top level modules:
+# 	control
+# 
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/AluContrlTestBench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module AluControlTestBench
+# 
+# Top level modules:
+# 	AluControlTestBench
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/AluControl.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module AluControl
+# 
+# Top level modules:
+# 	AluControl
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/and_3bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module and_3bit
+# 
+# Top level modules:
+# 	and_3bit
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/and_4bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module and_4bit
+# 
+# Top level modules:
+# 	and_4bit
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/and_5bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module and_5bit
+# 
+# Top level modules:
+# 	and_5bit
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/and_6bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module and_6bit
+# 
+# Top level modules:
+# 	and_6bit
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/control.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module control
+# 
+# Top level modules:
+# 	control
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/control_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module control_testbench
+# 
+# Top level modules:
+# 	control_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/DataMemory.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DataMemory
+# 
+# Top level modules:
+# 	DataMemory
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/DataMemoryTestBench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DataMemoryTestBench
+# 
+# Top level modules:
+# 	DataMemoryTestBench
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/instruction_memory_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module instruction_memory_testbench
+# 
+# Top level modules:
+# 	instruction_memory_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/instructions.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module instructions
+# 
+# Top level modules:
+# 	instructions
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/mips_16bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_16bit
+# 
+# Top level modules:
+# 	mips_16bit
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/mips_16bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_16bit_testbench
+# 
+# Top level modules:
+# 	mips_16bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/mips_registers.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_registers
+# 
+# Top level modules:
+# 	mips_registers
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/mips_registers_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_registers_testbench
+# 
+# Top level modules:
+# 	mips_registers_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/mux_2x1_3bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2x1_3bit
+# 
+# Top level modules:
+# 	mux_2x1_3bit
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/mux_2x1_32bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2x1_32bit
+# 
+# Top level modules:
+# 	mux_2x1_32bit
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/ProgramCounter.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ProgramCounter
+# 
+# Top level modules:
+# 	ProgramCounter
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/ProgramCounterTestBench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ProgramCounterTestBench
+# 
+# Top level modules:
+# 	ProgramCounterTestBench
+vlog -reportprogress 300 -work work C:/altera/13.1/Final/sign_extend.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sign_extend
+# 
+# Top level modules:
+# 	sign_extend
+vlog -reportprogress 300 -work work C:/altera/13.1/adder_1_bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module adder_1_bit
+# 
+# Top level modules:
+# 	adder_1_bit
+vlog -reportprogress 300 -work work C:/altera/13.1/adder_1_bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module adder_1_bit_testbench
+# 
+# Top level modules:
+# 	adder_1_bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/adder_32_bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module adder_32_bit
+# 
+# Top level modules:
+# 	adder_32_bit
+vlog -reportprogress 300 -work work C:/altera/13.1/adder_32_bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module adder_32_bit_testbench
+# 
+# Top level modules:
+# 	adder_32_bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/alu32.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu32
+# 
+# Top level modules:
+# 	alu32
+vlog -reportprogress 300 -work work C:/altera/13.1/alu32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu32_testbench
+# 
+# Top level modules:
+# 	alu32_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/and_32_bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module and_32_bit
+# 
+# Top level modules:
+# 	and_32_bit
+vlog -reportprogress 300 -work work C:/altera/13.1/and_32_bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module and_32_bit_testbench
+# 
+# Top level modules:
+# 	and_32_bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/mux_2x1.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2x1
+# 
+# Top level modules:
+# 	mux_2x1
+vlog -reportprogress 300 -work work C:/altera/13.1/mux_2x1_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2x1_testbench
+# 
+# Top level modules:
+# 	mux_2x1_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/mux_4x1.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_4x1
+# 
+# Top level modules:
+# 	mux_4x1
+vlog -reportprogress 300 -work work C:/altera/13.1/mux_4x1_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_4x1_testbench
+# 
+# Top level modules:
+# 	mux_4x1_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/mux_8x1.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_8x1
+# 
+# Top level modules:
+# 	mux_8x1
+vlog -reportprogress 300 -work work C:/altera/13.1/mux_8x1_32bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_8x1_32bit
+# 
+# Top level modules:
+# 	mux_8x1_32bit
+vlog -reportprogress 300 -work work C:/altera/13.1/mux_8x1_32bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_8x1_32bit_testbench
+# 
+# Top level modules:
+# 	mux_8x1_32bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/mux_8x1_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_8x1_testbench
+# 
+# Top level modules:
+# 	mux_8x1_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/nor_32_bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module nor_32_bit
+# 
+# Top level modules:
+# 	nor_32_bit
+vlog -reportprogress 300 -work work C:/altera/13.1/nor_32_bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module nor_32_bit_testbench
+# 
+# Top level modules:
+# 	nor_32_bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/not_32_bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module not_32_bit
+# 
+# Top level modules:
+# 	not_32_bit
+vlog -reportprogress 300 -work work C:/altera/13.1/not_32_bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module not_32_bit_testbench
+# 
+# Top level modules:
+# 	not_32_bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/or_32_bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module or_32_bit
+# 
+# Top level modules:
+# 	or_32_bit
+vlog -reportprogress 300 -work work C:/altera/13.1/or_32_bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module or_32_bit_testbench
+# 
+# Top level modules:
+# 	or_32_bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/set_less_than_32.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module set_less_than_32
+# 
+# Top level modules:
+# 	set_less_than_32
+vlog -reportprogress 300 -work work C:/altera/13.1/set_less_than_32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module set_less_than_32_testbench
+# 
+# Top level modules:
+# 	set_less_than_32_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/xor_32_bit.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module xor_32_bit
+# 
+# Top level modules:
+# 	xor_32_bit
+vlog -reportprogress 300 -work work C:/altera/13.1/xor_32_bit_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module xor_32_bit_testbench
+# 
+# Top level modules:
+# 	xor_32_bit_testbench
+vlog -reportprogress 300 -work work C:/altera/13.1/xor_gate.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module xor_gate
+# 
+# Top level modules:
+# 	xor_gate
+vlog -reportprogress 300 -work work C:/altera/13.1/xorgate_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module xorgate_testbench
+# 
+# Top level modules:
+# 	xorgate_testbench
+vsim work.mips_16bit_testbench
+# vsim work.mips_16bit_testbench 
+# Loading work.mips_16bit_testbench
+# Loading work.mips_16bit
+# Loading work.instructions
+# Loading work.control
+# Loading work.and_4bit
+# Loading work.mux_2x1_3bit
+# Loading work.mux_2x1
+# Loading work.mips_registers
+# Loading work.AluControl
+# Loading work.sign_extend
+# Loading work.mux_2x1_32bit
+# Loading work.alu32
+# Loading work.adder_32_bit
+# Loading work.xor_gate
+# Loading work.adder_1_bit
+# Loading work.xor_32_bit
+# Loading work.set_less_than_32
+# Loading work.nor_32_bit
+# Loading work.or_32_bit
+# Loading work.not_32_bit
+# Loading work.and_32_bit
+# Loading work.mux_8x1_32bit
+# Loading work.mux_8x1
+# Loading work.mux_4x1
+# Loading work.DataMemory
+run
+# Opcode: xxxx , R[s]: xxx , R[t]: xxx , Imm: xxxxxx (Branch: x or BNE: x and zero: x) 
+#  AluCtrl: xxx , AluInput1: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx , AluInput2: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+#  AluResult: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+#  WriteData: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+#  PC: 00000000000000000000000000000000
+#  newPC = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+#  *********
+# Opcode: 0001 , R[s]: 010 , R[t]: 010 , Imm: 001010 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000010 , AluInput2: 00000000000000000000000000001010 
+#  AluResult: 00000000000000000000000000001100 
+#  WriteData: 00000000000000000000000000001100 
+#  PC: 00000000000000000000000000000001
+#  newPC = 00000000000000000000000000000010 
+#  *********
+# Opcode: 0001 , R[s]: 001 , R[t]: 001 , Imm: 000101 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000001 , AluInput2: 00000000000000000000000000000101 
+#  AluResult: 00000000000000000000000000000110 
+#  WriteData: 00000000000000000000000000000110 
+#  PC: 00000000000000000000000000000010
+#  newPC = 00000000000000000000000000000011 
+#  *********
+# Opcode: 0000 , R[s]: 010 , R[t]: 001 , R[d]: 011 , Func: 010 
+#  AluCtrl: 010 , AluInput1: 00000000000000000000000000001100 , AluInput2: 00000000000000000000000000000110 
+#  AluResult: 00000000000000000000000000000110 
+#  WriteData: 00000000000000000000000000000110 
+#  PC: 00000000000000000000000000000011
+#  *********
+# Opcode: 0000 , R[s]: 110 , R[t]: 100 , R[d]: 111 , Func: 010 
+#  AluCtrl: 010 , AluInput1: 00000000000000000000000000000110 , AluInput2: 00000000000000000000000000000100 
+#  AluResult: 00000000000000000000000000000010 
+#  WriteData: 00000000000000000000000000000010 
+#  PC: 00000000000000000000000000000100
+#  *********
+# Opcode: 0000 , R[s]: 110 , R[t]: 100 , R[d]: 111 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000110 , AluInput2: 00000000000000000000000000000100 
+#  AluResult: 00000000000000000000000000001010 
+#  WriteData: 00000000000000000000000000001010 
+#  PC: 00000000000000000000000000000101
+#  *********
+# Opcode: 0000 , R[s]: 101 , R[t]: 010 , R[d]: 001 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000101 , AluInput2: 00000000000000000000000000001100 
+#  AluResult: 00000000000000000000000000010001 
+#  WriteData: 00000000000000000000000000010001 
+#  PC: 00000000000000000000000000000110
+#  *********
+# Opcode: 0000 , R[s]: 101 , R[t]: 001 , R[d]: 010 , Func: 001 
+#  AluCtrl: 110 , AluInput1: 00000000000000000000000000000101 , AluInput2: 00000000000000000000000000010001 
+#  AluResult: 00000000000000000000000000000001 
+#  WriteData: 00000000000000000000000000000001 
+#  PC: 00000000000000000000000000000111
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 010 , R[d]: 001 , Func: 001 
+#  AluCtrl: 110 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000001 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000001000
+#  *********
+# Opcode: 0010 , R[s]: 001 , R[t]: 100 , Imm: 000011 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 110 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000011 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000001001
+#  newPC = 00000000000000000000000000001010 
+#  *********
+# Opcode: 0010 , R[s]: 111 , R[t]: 001 , Imm: 001100 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 110 , AluInput1: 00000000000000000000000000001010 , AluInput2: 00000000000000000000000000001100 
+#  AluResult: 00000000000000000000000000001000 
+#  WriteData: 00000000000000000000000000001000 
+#  PC: 00000000000000000000000000001010
+#  newPC = 00000000000000000000000000001011 
+#  *********
+# Opcode: 0000 , R[s]: 001 , R[t]: 100 , R[d]: 001 , Func: 011 
+#  AluCtrl: 001 , AluInput1: 00000000000000000000000000001000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000001000 
+#  WriteData: 00000000000000000000000000001000 
+#  PC: 00000000000000000000000000001011
+#  *********
+# Opcode: 0000 , R[s]: 001 , R[t]: 111 , R[d]: 001 , Func: 011 
+#  AluCtrl: 001 , AluInput1: 00000000000000000000000000001000 , AluInput2: 00000000000000000000000000001010 
+#  AluResult: 00000000000000000000000000000010 
+#  WriteData: 00000000000000000000000000000010 
+#  PC: 00000000000000000000000000001100
+#  *********
+# Opcode: 0101 , R[s]: 000 , R[t]: 000 , Imm: 000011 (Branch: 1 or BNE: 0 and zero: 1) 
+#  AluCtrl: 010 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000010000
+#  newPC = 00000000000000000000000000010100 
+#  *********
+# Opcode: 0101 , R[s]: 001 , R[t]: 100 , Imm: 000001 (Branch: 1 or BNE: 0 and zero: 0) 
+#  AluCtrl: 010 , AluInput1: 00000000000000000000000000000010 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000010 
+#  WriteData: 00000000000000000000000000000010 
+#  PC: 00000000000000000000000000010001
+#  newPC = 00000000000000000000000000010010 
+#  *********
+# Opcode: 0011 , R[s]: 010 , R[t]: 001 , Imm: 110011 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 101 , AluInput1: 00000000000000000000000000000001 , AluInput2: 11111111111111111111111111110011 
+#  AluResult: 00000000000000000000000000001100 
+#  WriteData: 00000000000000000000000000001100 
+#  PC: 00000000000000000000000000010010
+#  newPC = 00000000000000000000000000010011 
+#  *********
+# Opcode: 0011 , R[s]: 011 , R[t]: 010 , Imm: 001010 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 101 , AluInput1: 00000000000000000000000000000110 , AluInput2: 00000000000000000000000000001010 
+#  AluResult: 11111111111111111111111111110001 
+#  WriteData: 11111111111111111111111111110001 
+#  PC: 00000000000000000000000000010011
+#  newPC = 00000000000000000000000000010100 
+#  *********
+# Opcode: 1001 , R[s]: 110 , R[t]: 101 , Imm: 000111 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000110 , AluInput2: 00000000000000000000000000000111 
+#  AluResult: 00000000000000000000000000001101 
+#  WriteData: 00000000000000000000000000001101 
+#  PC: 00000000000000000000000000010100
+#  newPC = 00000000000000000000000000010101 
+#  *********
+# Opcode: 1001 , R[s]: 111 , R[t]: 111 , Imm: 001010 (Branch: 0 or BNE: 0 and zero: 1) 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000001010 , AluInput2: 00000000000000000000000000001010 
+#  AluResult: 00000000000000000000000000010100 
+#  WriteData: 00000000000000000000000000010100 
+#  PC: 00000000000000000000000000010101
+#  newPC = 00000000000000000000000000010110 
+#  *********
+# Opcode: 0111 , R[s]: 010 , R[t]: 011 , Imm: 000001 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 100 , AluInput1: 11111111111111111111111111110001 , AluInput2: 00000000000000000000000000000001 
+#  AluResult: 00000000000000000000000000000001 
+#  WriteData: 00000000000000000000000000000001 
+#  PC: 00000000000000000000000000010110
+#  newPC = 00000000000000000000000000010111 
+#  *********
+# Opcode: 0111 , R[s]: 000 , R[t]: 011 , Imm: 000011 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 100 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000011 
+#  AluResult: 00000000000000000000000000000001 
+#  WriteData: 00000000000000000000000000000001 
+#  PC: 00000000000000000000000000010111
+#  newPC = 00000000000000000000000000011000 
+#  *********
+# Opcode: 0110 , R[s]: 001 , R[t]: 010 , Imm: 000010 (Branch: 0 or BNE: 1 and zero: 0) 
+#  AluCtrl: 010 , AluInput1: 00000000000000000000000000001100 , AluInput2: 11111111111111111111111111110001 
+#  AluResult: 00000000000000000000000000011011 
+#  WriteData: 00000000000000000000000000011011 
+#  PC: 00000000000000000000000000011010
+#  newPC = 00000000000000000000000000011101 
+#  *********
+# Opcode: 0110 , R[s]: 000 , R[t]: 000 , Imm: 001110 (Branch: 0 or BNE: 1 and zero: 1) 
+#  AluCtrl: 010 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000011011
+#  newPC = 00000000000000000000000000011100 
+#  *********
+# Opcode: 0000 , R[s]: 010 , R[t]: 111 , R[d]: 101 , Func: 100 
+#  AluCtrl: 001 , AluInput1: 11111111111111111111111111110001 , AluInput2: 00000000000000000000000000001010 
+#  AluResult: 11111111111111111111111111111011 
+#  WriteData: 11111111111111111111111111111011 
+#  PC: 00000000000000000000000000011100
+#  *********
+# Opcode: 0000 , R[s]: 010 , R[t]: 010 , R[d]: 100 , Func: 100 
+#  AluCtrl: 001 , AluInput1: 11111111111111111111111111110001 , AluInput2: 11111111111111111111111111110001 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000011101
+#  *********
+# Opcode: 0100 , R[s]: 100 , R[t]: 110 , Imm: 010101 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 101 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000010101 
+#  AluResult: 11111111111111111111111111101010 
+#  WriteData: 11111111111111111111111111101010 
+#  PC: 00000000000000000000000000011110
+#  newPC = 00000000000000000000000000011111 
+#  *********
+# Opcode: 0100 , R[s]: 110 , R[t]: 101 , Imm: 101010 (Branch: 0 or BNE: 0 and zero: 1) 
+#  AluCtrl: 101 , AluInput1: 11111111111111111111111111101010 , AluInput2: 11111111111111111111111111101010 
+#  AluResult: 00000000000000000000000000010101 
+#  WriteData: 00000000000000000000000000010101 
+#  PC: 00000000000000000000000000011111
+#  newPC = 00000000000000000000000000100000 
+#  *********
+# Opcode: 0000 , R[s]: 110 , R[t]: 101 , R[d]: 100 , Func: 101 
+#  AluCtrl: 111 , AluInput1: 11111111111111111111111111101010 , AluInput2: 11111111111111111111111111111011 
+#  AluResult: 11111111111111111111111111111011 
+#  WriteData: 11111111111111111111111111111011 
+#  PC: 00000000000000000000000000100000
+#  *********
+# Opcode: 0000 , R[s]: 100 , R[t]: 011 , R[d]: 001 , Func: 101 
+#  AluCtrl: 111 , AluInput1: 11111111111111111111111111111011 , AluInput2: 00000000000000000000000000000001 
+#  AluResult: 11111111111111111111111111111011 
+#  WriteData: 11111111111111111111111111111011 
+#  PC: 00000000000000000000000000100001
+#  *********
+# Opcode: 1000 , R[s]: 011 , R[t]: 111 , Imm: 000111 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000001 , AluInput2: 00000000000000000000000000000111 
+#  AluResult: 00000000000000000000000000001000 
+#  WriteData: 00000000000000000000000000001000 
+#  PC: 00000000000000000000000000100010
+#  newPC = 00000000000000000000000000100011 
+#  *********
+# Opcode: 1000 , R[s]: 000 , R[t]: 010 , Imm: 000011 (Branch: 0 or BNE: 0 and zero: 0) 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000011 
+#  AluResult: 00000000000000000000000000000011 
+#  WriteData: 00000000000000000000000000000011 
+#  PC: 00000000000000000000000000100011
+#  newPC = 00000000000000000000000000100100 
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000100100
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000100101
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000100110
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000100111
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000101000
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000101001
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000101010
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000101011
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000101100
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000101101
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000101110
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000101111
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000110000
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000110001
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000110010
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000110011
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000110100
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000110101
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000110110
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000110111
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000111000
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000111001
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000111010
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000111011
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000111100
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000111101
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000111110
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000000111111
+#  *********
+# Opcode: 0000 , R[s]: 000 , R[t]: 000 , R[d]: 000 , Func: 000 
+#  AluCtrl: 000 , AluInput1: 00000000000000000000000000000000 , AluInput2: 00000000000000000000000000000000 
+#  AluResult: 00000000000000000000000000000000 
+#  WriteData: 00000000000000000000000000000000 
+#  PC: 00000000000000000000000001000000
+#  *********
+# Break in Module mips_16bit_testbench at C:/altera/13.1/Final/mips_16bit_testbench.v line 17
+vsim work.instruction_memory_testbench
+# vsim work.instruction_memory_testbench 
+# Loading work.instruction_memory_testbench
+# Loading work.instructions
+run
+# instruction=0001010010001010, PC=00000000000000000000000000000000
+# instruction=0001001001000101, PC=00000000000000000000000000000001
+# instruction=0000010001011010, PC=00000000000000000000000000000010
+# instruction=0001001001000101, PC=00000000000000000000000000000001
+vsim work.DataMemoryTestBench
+# vsim work.DataMemoryTestBench 
+# Loading work.DataMemoryTestBench
+# Loading work.DataMemory
+run
+# read_data=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, address=00000000000000000000000000000101 , write_data=00000000000001110000101000100000, memRead=0, memWrite=1
+# read_data=00000000000000000000000000000110, address=00000000000000000000000000000110 , write_data=11111110011111111111110011111100, memRead=1, memWrite=0
+vsim work.mips_registers_testbench
+# vsim work.mips_registers_testbench 
+# Loading work.mips_registers_testbench
+# Loading work.mips_registers
+run
+# read_data1=00000000000000000000000000000001, read_data2=00000000000000000000000000000010, write_reg=100, signal_reg_write=1
+# read_data1=11001110011111111111111111110000, read_data2=00000000000000000000000000000010, write_reg=101, signal_reg_write=1

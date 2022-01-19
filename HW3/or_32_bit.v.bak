@@ -1,0 +1,7 @@
+module or_32_bit(input [31:0] A , input [31:0] B , output [31:0] OUT);
+
+
+
+
+
+endmodule

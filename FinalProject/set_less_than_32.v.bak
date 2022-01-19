@@ -1,0 +1,11 @@
+module set_less_than(input [31:0] A , input [31:0] B , output [31:0] OUT);
+
+wire Carry;
+wire [31:0] S;
+
+adder_32_bit SUBTRACT(A , B , 1'b1 , S , Carry);
+
+
+
+
+endmodule

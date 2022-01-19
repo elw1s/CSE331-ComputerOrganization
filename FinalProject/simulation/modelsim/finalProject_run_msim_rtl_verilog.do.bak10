@@ -1,0 +1,36 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/xor_gate.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/xor_32_bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/set_less_than_32.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/or_32_bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/not_32_bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/nor_32_bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/mux_8x1_32bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/mux_8x1.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/mux_4x1.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/mux_2x1.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/and_32_bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/alu32.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/adder_32_bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1 {C:/altera/13.1/adder_1_bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/mux_2x1_32bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/and_4bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/control.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/AluControl.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/and_3bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/and_6bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/and_5bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/sign_extend.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/ProgramCounter.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/mips_16bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/mux_2x1_3bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/mips_registers.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/instructions.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/Final {C:/altera/13.1/Final/DataMemory.v}
+

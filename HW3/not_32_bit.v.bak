@@ -1,0 +1,39 @@
+
+module not_32_bit(input [31:0] A , output[31:0] OUT);
+
+
+
+not(OUT[0] , A[0]);
+not(OUT[1] , A[1]);
+not(OUT[2] , A[2]);
+not(OUT[3] , A[3]);
+not(OUT[4] , A[4]);
+not(OUT[5] , A[5]);
+not(OUT[6] , A[6]);
+not(OUT[7] , A[7]);
+not(OUT[8] , A[8]);
+not(OUT[9] , A[9]);
+not(OUT[10] , A[10]);
+not(OUT[11] , A[11]);
+not(OUT[12] , A[12]);
+not(OUT[13] , A[13]);
+not(OUT[14] , A[14]);
+not(OUT[15] , A[15]);
+not(OUT[16] , A[16]);
+not(OUT[17] , A[17]);
+not(OUT[18] , A[18]);
+not(OUT[19] , A[19]);
+not(OUT[20] , A[20]);
+not(OUT[21] , A[21]);
+not(OUT[22] , A[22]);
+not(OUT[23] , A[23]);
+not(OUT[24] , A[24]);
+not(OUT[25] , A[25]);
+not(OUT[26] , A[26]);
+not(OUT[27] , A[27]);
+not(OUT[28] , A[28]);
+not(OUT[29] , A[29]);
+not(OUT[30] , A[30]);
+not(OUT[31] , A[31]);
+
+endmodule

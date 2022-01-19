@@ -1,0 +1,9 @@
+module mux_4x1(input [3:0] D , input [1:0] S , output F);
+
+wire w_mux1 , w_mux2;
+
+mux_2x1 MUX1(D[0] , D[1] , S[1] , w_mux1);
+mux_2x1 MUX2(D[2] , D[3] , S[1] , w_mux2);
+mux_2x1 MUX3(w_mux1 , w_mux2 , S[0] , F);
+
+endmodule

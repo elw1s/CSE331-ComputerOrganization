@@ -1,0 +1,23 @@
+module AluControl(input [2:0] AluOp, input [2:0] Func, output [2:0] AluCtrl);
+
+wire notP2,notP1,notP0,notF2,notF1,notF0;
+
+
+not NOT1(notP2,AluOp[2]);
+not NOT2(notP1,AluOp[1]);
+not NOT3(notP0,AluOp[0]);
+not NOT4(notF2,Func[2]);
+not NOT5(notF1,Func[1]);
+not NOT6(notF0,Func[0]);
+
+/* AluCtrl 2 (C2) */
+
+and ()
+
+
+
+
+
+
+
+endmodule

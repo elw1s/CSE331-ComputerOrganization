@@ -1,0 +1,23 @@
+Info (10281): Verilog HDL Declaration information at control.v(1): object "BNE" differs only in case from object "Bne" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(4): object "not1" differs only in case from object "NOT1" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(4): object "not2" differs only in case from object "NOT2" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(4): object "not3" differs only in case from object "NOT3" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or1" differs only in case from object "OR1" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or2" differs only in case from object "OR2" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or3" differs only in case from object "OR3" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or4" differs only in case from object "OR4" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or5" differs only in case from object "OR5" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or6" differs only in case from object "OR6" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or7" differs only in case from object "OR7" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or8" differs only in case from object "OR8" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or9" differs only in case from object "OR9" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or10" differs only in case from object "OR10" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or11" differs only in case from object "OR11" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or12" differs only in case from object "OR12" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or13" differs only in case from object "OR13" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or14" differs only in case from object "OR14" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or15" differs only in case from object "OR15" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or16" differs only in case from object "OR16" in the same scope
+Info (10281): Verilog HDL Declaration information at control.v(5): object "or17" differs only in case from object "OR17" in the same scope
+Info (10281): Verilog HDL Declaration information at mips_16bit.v(9): object "AluCtrl" differs only in case from object "ALUCTRL" in the same scope
+Warning (10268): Verilog HDL information at DataMemory.v(10): always construct contains both blocking and non-blocking assignments

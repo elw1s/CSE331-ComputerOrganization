@@ -1,0 +1,154 @@
+Archive Project report for finalProject
+Fri Jan 07 16:08:37 2022
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Fri Jan 07 16:08:37 2022 ;
+; Revision Name          ; finalProject                          ;
+; Top-level Entity Name  ; control                               ;
+; Family                 ; Cyclone III                           ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/Arda/Desktop/Organization/Homeworks/Final/1901042648.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'finalProject.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4473 megabytes
+    Info: Processing ended: Fri Jan 07 16:08:37 2022
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++---------------------------------------------------------+
+; Files Archived                                          ;
++---------------------------------------------------------+
+; File Name                                               ;
++---------------------------------------------------------+
+; ../adder_1_bit.v                                        ;
+; ../adder_1_bit_testbench.v                              ;
+; ../adder_32_bit.v                                       ;
+; ../adder_32_bit_testbench.v                             ;
+; ../alu32.v                                              ;
+; ../alu32_testbench.v                                    ;
+; ../and_32_bit.v                                         ;
+; ../and_32_bit_testbench.v                               ;
+; ../mux_2x1.v                                            ;
+; ../mux_2x1_testbench.v                                  ;
+; ../mux_4x1.v                                            ;
+; ../mux_4x1_testbench.v                                  ;
+; ../mux_8x1.v                                            ;
+; ../mux_8x1_32bit.v                                      ;
+; ../mux_8x1_32bit_testbench.v                            ;
+; ../mux_8x1_testbench.v                                  ;
+; ../nor_32_bit.v                                         ;
+; ../nor_32_bit_testbench.v                               ;
+; ../not_32_bit.v                                         ;
+; ../not_32_bit_testbench.v                               ;
+; ../or_32_bit.v                                          ;
+; ../or_32_bit_testbench.v                                ;
+; ../set_less_than_32.v                                   ;
+; ../set_less_than_32_testbench.v                         ;
+; ../xor_32_bit.v                                         ;
+; ../xor_32_bit_testbench.v                               ;
+; ../xor_gate.v                                           ;
+; ../xorgate_testbench.v                                  ;
+; AluControl.v                                            ;
+; and_3bit.v                                              ;
+; and_4bit.v                                              ;
+; and_5bit.v                                              ;
+; and_6bit.v                                              ;
+; C:/altera/13.1/adder_1_bit.v                            ;
+; C:/altera/13.1/adder_1_bit_testbench.v                  ;
+; C:/altera/13.1/adder_32_bit.v                           ;
+; C:/altera/13.1/adder_32_bit_testbench.v                 ;
+; C:/altera/13.1/alu32.v                                  ;
+; C:/altera/13.1/alu32_testbench.v                        ;
+; C:/altera/13.1/and_32_bit.v                             ;
+; C:/altera/13.1/and_32_bit_testbench.v                   ;
+; C:/altera/13.1/mux_2x1.v                                ;
+; C:/altera/13.1/mux_2x1_testbench.v                      ;
+; C:/altera/13.1/mux_4x1.v                                ;
+; C:/altera/13.1/mux_4x1_testbench.v                      ;
+; C:/altera/13.1/mux_8x1.v                                ;
+; C:/altera/13.1/mux_8x1_32bit.v                          ;
+; C:/altera/13.1/mux_8x1_32bit_testbench.v                ;
+; C:/altera/13.1/mux_8x1_testbench.v                      ;
+; C:/altera/13.1/nor_32_bit.v                             ;
+; C:/altera/13.1/nor_32_bit_testbench.v                   ;
+; C:/altera/13.1/not_32_bit.v                             ;
+; C:/altera/13.1/not_32_bit_testbench.v                   ;
+; C:/altera/13.1/or_32_bit.v                              ;
+; C:/altera/13.1/or_32_bit_testbench.v                    ;
+; c:/altera/13.1/quartus/bin64/assignment_defaults.qdf    ;
+; C:/altera/13.1/set_less_than_32.v                       ;
+; C:/altera/13.1/set_less_than_32_testbench.v             ;
+; C:/altera/13.1/xor_32_bit.v                             ;
+; C:/altera/13.1/xor_32_bit_testbench.v                   ;
+; C:/altera/13.1/xor_gate.v                               ;
+; C:/altera/13.1/xorgate_testbench.v                      ;
+; control.v                                               ;
+; control_testbench.v                                     ;
+; data.txt                                                ;
+; DataMemory.v                                            ;
+; DataMemoryTestBench.v                                   ;
+; db/finalProject.db_info                                 ;
+; finalProject.qpf                                        ;
+; finalProject.qsf                                        ;
+; incremental_db/compiled_partitions/finalProject.db_info ;
+; instruction_memory_testbench.v                          ;
+; instructions.txt                                        ;
+; instructions.v                                          ;
+; mips_16bit.v                                            ;
+; mips_16bit_testbench.v                                  ;
+; mips_registers.v                                        ;
+; mips_registers_testbench.v                              ;
+; mux_2x1_3bit.v                                          ;
+; mux_2x1_32bit.v                                         ;
+; registers.txt                                           ;
+; sign_extend.v                                           ;
++---------------------------------------------------------+
+
+
